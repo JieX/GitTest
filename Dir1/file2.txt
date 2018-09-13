@@ -2,4 +2,3 @@ add line by master
 add line by master after reset hard
 add line by master after reset soft before commit
 add line use commit -a
-add line test reset
